@@ -6,6 +6,7 @@ Install all dependencies by running
 ```
 pip install -r requirements.txt
 ```
+## Step 1: Fine tune the model 
 
 To fine tune the model run
 
@@ -26,7 +27,7 @@ This runs the `finetune.py` script with the following arguments:
 - input_text_path pseudoCode-Dataset/pseudoCode_csv_full/
 - save gptj-6B
 
-To run SyRELM model 
+## Step 2: Train SyRELM model 
 
 ```
 ./run_RL.sh
