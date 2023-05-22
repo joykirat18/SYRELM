@@ -1,0 +1,1 @@
+python3 finetune.py --model_name "EleutherAI/gpt-j-6b" --toknizer_name "EleutherAI/gpt-j-6b" --input_text_path "data/pseudoCode-Dataset/pseudoCode_csv_full_filteredV2/" --batch_size 8 --num_train_epochs 10 --save "finetune" > finetune.txt
