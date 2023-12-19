@@ -1,4 +1,4 @@
-# Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning (repository under progress)
+# Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning
 
 This repository contains code for the AAAI 2024 paper [Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning](https://arxiv.org/abs/2312.05571).
 
